@@ -51,7 +51,7 @@
           </div>
           <div class="vl-cause-content">            
             <a href="healthcare.php" class="badge mt-32" style="background-color:#19216b ;">Healthcare</a><br>
-            <p>Our work to build healthy communities, families and individuals is at the heart of Wajir Initiative Network's vision for social change. 
+            <p>Our work to build healthy communities, families and individuals is at the heart of Daryeel Women Initiative's vision for social change. 
             By partnering with a range of partners, from village health committees to government agencies, we help build the means to improve</p>
           </div>
         </div>
@@ -68,7 +68,7 @@
           </div>
           <div class="vl-cause-content">            
             <a href="Education-Program.php" class="badge mt-32" style="background-color:#19216b ;">Education</a><br>
-           <p>Wajir Initiative Network seeks to empower and motivate young girls through education to become agents of change and to break the cycle of destructive cultural practices in Kenya, such as</p>
+           <p>Daryeel Women Initiative seeks to empower and motivate young girls through education to become agents of change and to break the cycle of destructive cultural practices in Kenya, such as</p>
           </div>
         </div>
       </div>
@@ -84,7 +84,7 @@
           </div>
           <div class="vl-cause-content">            
             <a href="women-and-gender.php" class="badge mt-32" style="background-color:#19216b ;">Women and Gender</a><br>
-           <p>Wajir Initiative Network addresses the unmet needs of women and girls in places where they have been marginalized and disempowered, 
+           <p>Daryeel Women Initiative addresses the unmet needs of women and girls in places where they have been marginalized and disempowered, 
             while recognizing that it is vital to involve men and boys in the process of helping women and girls claim their equal place. Ensuring equity between 
             women and men is the key to unleashing the full potential of communities to transform their lives. </p>
           </div>

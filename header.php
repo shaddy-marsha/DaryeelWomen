@@ -80,7 +80,7 @@
           <div class="col-lg-12">
             <div class="header-elements header-elements-1">
               <div class="site-logo">
-                <a href="index.php"><img src="assets/img/logo/iconss.png" alt=""></a>
+                <a href="index.php"><img src="assets/img/logo/mainlogo.png" alt=""></a>
               </div>
               <div class="main-menu">
                 <ul>
@@ -110,7 +110,7 @@
     <div class="col-12">
       <div class="mobile-header-elements">
         <div class="mobile-logo">
-          <a href="index.php"><img src="assets/img/logo/iconsss.png" alt=""></a>
+          <a href="index.php"><img src="assets/img/logo/mainlogo.png" alt=""></a>
         </div>
         <div class="mobile-nav-icon dots-menu">
           <i class="fa-solid fa-bars"></i>
