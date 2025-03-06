@@ -1,16 +1,16 @@
 <?php include 'header.php' ?>
 
 <!--===== BREADCRUMB AREA STARTS =======-->
-<section class="vl-breadcrumb" style="background-image: url(assets/img/banner/im2.jpg);">
+<section class="vl-breadcrumb" style="background-image: url(assets/img/banner/im8.jpg);">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
         <div class="vl-breadcrumb-title">
-          <h2 class="heading">Education Program</h2>
+          <h2 class="heading">Food and Agriculture</h2>
             <div class="vl-breadcrumb-list">
               <span><a href="index.php">Programs</a></span>
               <span class="dvir"><i class="fa-solid fa-angle-right"></i></span>
-              <span><a class="active" href="#">Education</a></span>
+              <span><a class="active" href="#">Food and Agriculture</a></span>
             </div>
         </div>
       </div>
@@ -25,35 +25,27 @@
       <div class="col-lg-8 mx-auto">
         <div class="vl-event-content-area">
           <div class="vl-large-thumb">
-            <img class="w-100" src="assets/img/banner/im2.jpg" alt="">
+            <img class="w-100" src="assets/img/banner/im8.jpg" alt="">
           </div>
           <div class="vl-event-box-bg cause-box-bg">
-           
-          <div class="event-content-area">
-            <h2 class="title">Education</h2>
-            <p class="para">Daryeel Women Initiative seeks to empower and motivate young girls through education to become agents of change and to break the cycle of destructive cultural practices in Kenya, such as;</p><br>
 
-            <div class="icon-list-box" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="300">
-                  <ul>
-                    <li><span><i class="fa-solid fa-check"></i></span> Female genital mutilation (FGM)</li>
-                    <li><span><i class="fa-solid fa-check"></i></span> Early child marriages</li>
-                    <li><span><i class="fa-solid fa-check"></i></span> Lack of sanitary pads</li>
-                    <li><span><i class="fa-solid fa-check"></i></span> Early pregnancies</li>
-                    <li><span><i class="fa-solid fa-check"></i></span> Long distances to fetch water</li>
-                    <li><span><i class="fa-solid fa-check"></i></span> Lack of shoes and clothes</li>
-                    <li><span><i class="fa-solid fa-check"></i></span> Lack of maternal healthcare services </li>
-                    <li><span><i class="fa-solid fa-check"></i></span> General perception of a woman’s role in the community</li>
-                  </ul>
-
-                  <p class="para">Many girls in Wajir county do not attend any formal school and those who attend, a great proportion of them drop from schools before completing the 
-                    primary school. We believe in impacting one girl at time until all girls in Wajir County have the opportunities they need to learn and thrive as individuals and 
-                    achieve their full potential. These future leaders will improve their community, their nation, and the world. We challenge ourselves to support our girls on an equal 
-                    footing with the boys by helping them access education and other opportunities.</p><br>
-
-              </div>
+          <h2 class="title">Food and Agriculture</h2><br><br>
 
            
-          </div>
+              <p class="para">One in every eight people in the world — 842 million — are trapped in a cycle of hunger and poverty. Nothing is more basic to human well-being than having enough nutritious food to eat.<br><br>
+
+                              Pastoral communities practice small scale farming. Hunger is a crisis when disaster ruins the harvest. Extended draught has extremely devastating effects.  It is a cycle when families 
+                              cannot grow or buy enough to lead healthy, productive lives, and when the effects of malnutrition are passed on to the next generation.<br><br>
+
+                              When food shortages occur due to drought and conflict, Wajir Initiative Nework collaborates with food aid organization to alleviate and prevent hunger and treat malnutrition in the 
+                              most vulnerable — children, pregnant women, the elderly and the displaced among the pastoralist communities. We working with local suppliers to speed delivery, save money and boost 
+                              local economies.<br><br>
+
+                              Wajir Initiative network helps small scale farmers manage their land, increase their harvests and diversify crops to produce a larger, more nutritious, and stable food supply. By 
+                              teaching nutrition and hygiene, we ensure families can utilize their resources to boost their health. And we connect farmers with new markets and introduce more efficient methods of
+                              tending productive livestock and processing and storing crops to increase incomes.<br></p>       
+          </div> 
+         </div>
         </div>
       </div>
     </div>
@@ -74,15 +66,14 @@
         <div class="col-lg-4 col-md-6">
         <div class="vl-single-cause-box mb-30" data-aos="fade-right" data-aos-duration="1200" data-aos-delay="300">
           <div class="vl-cause-thumb">
-            <img class="w-100" src="assets/img/banner/im1.jpg" alt="">
+            <img class="w-100" src="assets/img/banner/im2.jpg" alt="">
             <div class="btn-area casue-btn text-center">
               <a href="contact.php" class="header-btn1">Donation <span><i class="fa-solid fa-arrow-right"></i></span></a>
             </div>
           </div>
           <div class="vl-cause-content">            
-            <a href="" class="badge mt-32" style="background-color:#19216b ;">Healthcare</a>
-            <p>Our work to build healthy communities, families and individuals is at the heart of Wajir Initiative Network's vision for social change. 
-            By partnering with a range of partners, from village health committees to government agencies, we help build the means to improve</p>
+            <a href="Education-Program.php" class="badge mt-32" style="background-color:#19216b ;">Education</a>
+           <p>Wajir Initiative Network seeks to empower and motivate young girls through education to become agents of change and to break the cycle of destructive cultural practices in Kenya, such as</p>
           </div>
         </div>
       </div>
@@ -110,22 +101,20 @@
         <div class="col-lg-4 col-md-6">
         <div class="vl-single-cause-box mb-30" data-aos="fade-right" data-aos-duration="1200" data-aos-delay="300">
           <div class="vl-cause-thumb">
-            <img class="w-100" src="assets/img/banner/im7.jpg" alt="">
+            <img class="w-100" src="assets/img/banner/im1.jpg" alt="">
             <div class="btn-area casue-btn text-center">
               <a href="contact.php" class="header-btn1">Donation <span><i class="fa-solid fa-arrow-right"></i></span></a>
             </div>
           </div>
           <div class="vl-cause-content">            
-            <a href="" class="badge mt-32" style="background-color:#19216b ;">Women and Gender</a>
-           <p>Wajir Initiative Network addresses the unmet needs of women and girls in places where they have been marginalized and disempowered, 
-            while recognizing that it is vital to involve men and boys in the process of helping women and girls claim their equal place. Ensuring equity between 
-            women and men is the key to unleashing the full potential of communities to transform their lives. </p>
+            <a href="" class="badge mt-32" style="background-color:#19216b ;">Healthcare</a>
+            <p>Our work to build healthy communities, families and individuals is at the heart of Wajir Initiative Network's vision for social change. 
+            By partnering with a range of partners, from village health committees to government agencies, we help build the means to improve</p>
           </div>
         </div>
+      </div>
       </div>
     </div>
   </div>
 </section>
-
-
 <?php include 'footer.php'; ?>

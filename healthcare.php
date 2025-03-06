@@ -1,16 +1,16 @@
 <?php include 'header.php' ?>
 
 <!--===== BREADCRUMB AREA STARTS =======-->
-<section class="vl-breadcrumb" style="background-image: url(assets/img/banner/im2.jpg);">
+<section class="vl-breadcrumb" style="background-image: url(assets/img/banner/im1.jpg);">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
         <div class="vl-breadcrumb-title">
-          <h2 class="heading">Education Program</h2>
+          <h2 class="heading">Health</h2>
             <div class="vl-breadcrumb-list">
               <span><a href="index.php">Programs</a></span>
               <span class="dvir"><i class="fa-solid fa-angle-right"></i></span>
-              <span><a class="active" href="#">Education</a></span>
+              <span><a class="active" href="#">Health</a></span>
             </div>
         </div>
       </div>
@@ -25,32 +25,28 @@
       <div class="col-lg-8 mx-auto">
         <div class="vl-event-content-area">
           <div class="vl-large-thumb">
-            <img class="w-100" src="assets/img/banner/im2.jpg" alt="">
+            <img class="w-100" src="assets/img/banner/im1.jpg" alt="">
           </div>
           <div class="vl-event-box-bg cause-box-bg">
+
+          <h2 class="title">Health</h2><br><br>
+
            
-          <div class="event-content-area">
-            <h2 class="title">Education</h2>
-            <p class="para">Daryeel Women Initiative seeks to empower and motivate young girls through education to become agents of change and to break the cycle of destructive cultural practices in Kenya, such as;</p><br>
+              <p class="para">Many girls in Wajir county do not attend any formal school and those who attend, a great proportion of them drop from schools before completing the 
+                              primary school. We believe in impacting one girl at time until all girls in Wajir County have the opportunities they need to learn and thrive as individuals and 
+                              achieve their full potential.<br><br>
+                              
+                              These future leaders will improve their community, their nation, and the world. We challenge ourselves to support our girls on an equal 
+                              footing with the boys by helping them access education and other opportunities.</p><br>
 
             <div class="icon-list-box" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="300">
-                  <ul>
-                    <li><span><i class="fa-solid fa-check"></i></span> Female genital mutilation (FGM)</li>
-                    <li><span><i class="fa-solid fa-check"></i></span> Early child marriages</li>
-                    <li><span><i class="fa-solid fa-check"></i></span> Lack of sanitary pads</li>
-                    <li><span><i class="fa-solid fa-check"></i></span> Early pregnancies</li>
-                    <li><span><i class="fa-solid fa-check"></i></span> Long distances to fetch water</li>
-                    <li><span><i class="fa-solid fa-check"></i></span> Lack of shoes and clothes</li>
-                    <li><span><i class="fa-solid fa-check"></i></span> Lack of maternal healthcare services </li>
-                    <li><span><i class="fa-solid fa-check"></i></span> General perception of a woman’s role in the community</li>
-                  </ul>
+              <ul>
+                <li><span><i class="fa-solid fa-check"></i></span> Maternal, newborn and child health, </li>
+                <li><span><i class="fa-solid fa-check"></i></span> Ensure proper nutrition and </li>
+                <li><span><i class="fa-solid fa-check"></i></span> Combat infectious diseases.</li>
+              </ul>    
 
-                  <p class="para">Many girls in Wajir county do not attend any formal school and those who attend, a great proportion of them drop from schools before completing the 
-                    primary school. We believe in impacting one girl at time until all girls in Wajir County have the opportunities they need to learn and thrive as individuals and 
-                    achieve their full potential. These future leaders will improve their community, their nation, and the world. We challenge ourselves to support our girls on an equal 
-                    footing with the boys by helping them access education and other opportunities.</p><br>
-
-              </div>
+  </div>
 
            
           </div>
@@ -74,15 +70,14 @@
         <div class="col-lg-4 col-md-6">
         <div class="vl-single-cause-box mb-30" data-aos="fade-right" data-aos-duration="1200" data-aos-delay="300">
           <div class="vl-cause-thumb">
-            <img class="w-100" src="assets/img/banner/im1.jpg" alt="">
+            <img class="w-100" src="assets/img/banner/im2.jpg" alt="">
             <div class="btn-area casue-btn text-center">
               <a href="contact.php" class="header-btn1">Donation <span><i class="fa-solid fa-arrow-right"></i></span></a>
             </div>
           </div>
           <div class="vl-cause-content">            
-            <a href="" class="badge mt-32" style="background-color:#19216b ;">Healthcare</a>
-            <p>Our work to build healthy communities, families and individuals is at the heart of Wajir Initiative Network's vision for social change. 
-            By partnering with a range of partners, from village health committees to government agencies, we help build the means to improve</p>
+            <a href="Education-Program.php" class="badge mt-32" style="background-color:#19216b ;">Education</a>
+           <p>Wajir Initiative Network seeks to empower and motivate young girls through education to become agents of change and to break the cycle of destructive cultural practices in Kenya, such as</p>
           </div>
         </div>
       </div>
@@ -126,6 +121,4 @@
     </div>
   </div>
 </section>
-
-
 <?php include 'footer.php'; ?>

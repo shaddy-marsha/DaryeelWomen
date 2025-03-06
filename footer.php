@@ -39,13 +39,13 @@
           <h3 class="title">Our Programs</h3>
           <div class="vl-footer-menu">
             <ul>
-              <li><a href="#">Education</a></li>
-              <li><a href="#">Water and Sanitation</a></li>
-              <li><a href="team.html">Women and Gender</a></li>
-              <li><a href="#">Children and Youth</a></li>
-              <li><a href="#">Health</a></li>
-              <li><a href="#">Food and Agriculture</a></li>
-              <li><a href="#">Environmental Conservation</a></li>
+              <li><a href="Education-Program.php">Education</a></li>
+              <li><a href="Water-Sanitation.php">Water and Sanitation</a></li>
+              <li><a href="women-and-gender.php">Women and Gender</a></li>
+              <li><a href="children-and-youth.php">Children and Youth</a></li>
+              <li><a href="healthcare.php">Health</a></li>
+              <li><a href="food-and-agriculture.php">Food and Agriculture</a></li>
+              <li><a href="environmental-conservation.php">Environmental Conservation</a></li>
             </ul>
           </div>
         </div>
@@ -69,7 +69,7 @@
                 <span><img src="assets/img/icons/vl-footer-ic-1.2.svg" alt=""></span>
               </div>
               <div class="vl-footer-text">
-                <a href="#">8708 Wajir West <br> Pl Suite 125 -G, Wajir County, TX 773</a>
+                <a href="#">Gateway place , milimani road . Nairobi</a>
               </div>
             </div>
 
@@ -79,7 +79,7 @@
                 <span><img src="assets/img/icons/vl-footer-2.1.svg" alt=""></span>
               </div>
               <div class="vl-footer-text">
-                <a href="tel:+254 714972162">+254 714972162</a>
+                <a href="tel:(254) 742503333">(254) 742503333</a>
               </div>
             </div>
           </div>

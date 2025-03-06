@@ -61,7 +61,7 @@
                 <span><img src="assets/img/icons/vl-top-ic-1.2.svg" alt=""></span>
               </div>
               <div class="top-content">
-                <a href="tel:(254) 714 972162">(254) 714 972162</a>
+                <a href="tel:(254) 742503333">(254) 742503333</a>
               </div>
             </div>
           </div>
@@ -150,7 +150,7 @@
               <i class="fa-solid fa-phone-volume"></i>
             </div>
             <div class="contact-info-text">
-              <a href="tel:(254) 714 972162">(254) 714 972162</a>
+              <a href="tel:(254) 742503333">(254) 742503333</a>
             </div>
           </div>
 
@@ -170,7 +170,7 @@
               <i class="fa-solid fa-location-dot"></i>
             </div>
             <div class="contact-info-text">
-              <a href="mailto:info@daryeelwomeninitiative.org" >8708 Wajir West <br> Pl Suite 125 -G, Wajir County, TX 773</a>
+              <a href="mailto:info@daryeelwomeninitiative.org" >Gateway place , milimani road . Nairobi</a>
             </div>
           </div>
 

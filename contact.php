@@ -39,7 +39,7 @@
 
           <!-- form start -->
            <div class="vl-form-inner">
-            <form action="#">
+            <form action="mailto:info@daryeelwomeninitiative.org" method="post" enctype="text/plain">
               <div class="row">
                 <div class="col-lg-6">
                   <input type="text" placeholder="First Name*"> 
@@ -71,7 +71,7 @@
               </div>
               <div class="col-lg-12">
                 <div class="btn-area">
-                  <button class="header-btn1">Send Now <span><i class="fa-solid fa-arrow-right"></i></span></button>
+                  <button class="header-btn1" type="submit">Send Now <span><i class="fa-solid fa-arrow-right"></i></span></button>
                 </div>
               </div>
               </div>
@@ -102,7 +102,7 @@
             </div>
           </div>
           <div class="contact-number">
-            <a href="tel:+00123456789" class="para">(254) 714 972162 </a> <br>
+            <a href="tel:(254) 742503333" class="para">(254) 742 503333 </a> <br>
           </div>
         </div>
       </div>
@@ -119,7 +119,7 @@
             </div>
           </div>
           <div class="contact-number">
-            <a href="mailto:info@charity.com" class="para">info@daryeelwomeninitiative.org</a> <br>
+            <a href="info@daryeelwomeninitiative.org" class="para">info@daryeelwomeninitiative.org</a> <br>
           </div>
         </div>
       </div>
@@ -137,7 +137,7 @@
             </div>
           </div>
           <div class="contact-number">
-          <a href="#">8708 Wajir West <br> Pl Suite 125 -G, Wajir County, TX 773</a>
+          <a href="index.php">Gateway place , milimani road . Nairobi</a>
           </div>
         </div>
       </div>

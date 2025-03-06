@@ -89,7 +89,7 @@
             </div>
           </div>
           <div class="vl-cause-content">            
-            <a href="#" class="badge mt-32">Water and Sanitation</a>
+            <a href="Water-Sanitation.php" class="badge mt-32" style="background-color:#19216b ">Water and Sanitation</a>
            <p>Drawing on experience from other arid areas of Kenya and the world, <br> we organize training on innovative water harvesting, conservation designs  and waste disposal.</p>
           </div>
         </div>
@@ -104,7 +104,7 @@
             </div>
           </div>
           <div class="vl-cause-content">            
-            <a href="#" class="badge mt-32">Healthcare</a>
+            <a href="healthcare.php" class="badge mt-32" style="background-color:#19216b ">Healthcare</a>
             <p>Our work to build healthy communities, families and individuals is at the heart of Wajir Initiative Network's vision for social change. 
             By partnering with a range of partners, from village health committees to government agencies, we help build the means to improve</p>
           </div>
@@ -120,8 +120,8 @@
             </div>
           </div>
           <div class="vl-cause-content">            
-            <a href="#" class="badge mt-32">Education</a>
-           <p>Wajir Initiative Network seeks to empower and motivate young girls through education to become agents of change and to break the cycle of destructive cultural practices in Kenya, such as</p>
+            <a href="Education-Program.php" class="badge mt-32" style="background-color:#19216b ">Education</a>
+           <p>Daryeel Women Initiative seeks to empower and motivate young girls through education to become agents of change and to break the cycle of destructive cultural practices in Kenya, such as</p>
           </div>
         </div>
       </div>

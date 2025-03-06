@@ -6,7 +6,7 @@
     <div class="row">
       <div class="col-lg-12">
         <div class="vl-breadcrumb-title">
-          <h2 class="heading">Water and Sanitation Program</h2>
+          <h2 class="heading">Water and Sanitation</h2>
             <div class="vl-breadcrumb-list">
               <span><a href="index.php">Programs</a></span>
               <span class="dvir"><i class="fa-solid fa-angle-right"></i></span>
